@@ -7,4 +7,4 @@ For studying this repo. I recommend:
 - Run scripts to see its behavior.
     - Run `grant-permissions.sh` if you have trouble with script permissions.
 
-**Acknowledgement:** Big thanks to **[Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)** for this quality series!
+**Acknowledgement:** Big thanks to **[Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)** for **[this quality series](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)**!
